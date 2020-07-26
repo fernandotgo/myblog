@@ -14,7 +14,7 @@ export default ({data}) => (
 		<div>
             <Helmet>
                 <meta charset="UTF-8" />
-                <title>My Blog Post Index Page</title>
+                <title>My Blog Post Index Page(Netlify)</title>
                 <meta name="description" content="Free Web Tutorial"></meta>
                 <meta name="keywords" content="React, Javascript"></meta>
                 <meta name="author" content="Fernando Caceres"></meta>
